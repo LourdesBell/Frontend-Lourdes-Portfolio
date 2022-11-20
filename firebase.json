@@ -1,0 +1,16 @@
+{
+  "hosting": {
+    "public": "dist/portfolio-bellante-rodriguez-lourdes-macarena",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
