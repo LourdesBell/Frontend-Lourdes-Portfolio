@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/portfolio-bellante-rodriguez-lourdes-macarena",
+    "public": "dist\\portfolio-bellante-rodriguez-lourdes-macarena",
     "ignore": [
       "firebase.json",
       "**/.*",

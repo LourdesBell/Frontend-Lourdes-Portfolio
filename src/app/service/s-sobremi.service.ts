@@ -8,7 +8,7 @@ import { SobreMi } from '../model/sobremi';
   providedIn: 'root'
 })
 export class SSobreMiService {
-  expURL = 'https://aplourdesfront.web.app/sobremi/';
+  expURL = 'hhttps://app-portfolio-ap-lourdes.herokuapp.com/sobremi/';
 
   constructor(private httpClient: HttpClient) { }
   

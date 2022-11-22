@@ -9,7 +9,7 @@ import { Injectable } from '@angular/core';
   providedIn: 'root'
 })
 export class AuthService {
-  authURL = 'https://app-portfolio-ap-lourdes.herokuapp.com//auth/';
+  authURL = 'https://app-portfolio-ap-lourdes.herokuapp.com/auth/';
   constructor(private httpClient: HttpClient) { }
 
   public nuevo(nuevoUsuario: NuevoUsuario): Observable<any>{

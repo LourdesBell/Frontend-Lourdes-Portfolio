@@ -9,7 +9,7 @@ import { Observable } from 'rxjs';
 })
 export class SHabilidadesService {
 
-  expURL = 'https://aplourdesfront.web.app/habilidades/';
+  expURL = 'hhttps://app-portfolio-ap-lourdes.herokuapp.com/habilidades/';
 
   constructor(private httpClient: HttpClient) { }
 

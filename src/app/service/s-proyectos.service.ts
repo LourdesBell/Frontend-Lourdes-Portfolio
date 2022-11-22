@@ -9,7 +9,7 @@ import { Proyectos } from '../model/proyectos';
 })
 export class SProyectosService {
 
-  expURL = 'https://aplourdesfront.web.app/proyectos/';
+  expURL = 'hhttps://app-portfolio-ap-lourdes.herokuapp.com/proyectos/';
 
   constructor(private httpClient: HttpClient) { }
 

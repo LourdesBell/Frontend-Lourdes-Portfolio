@@ -9,7 +9,7 @@ import { Educacion } from '../model/educacion';
 })
 export class SEducacionService {
 
-  expURL = 'https://aplourdesfront.web.app/educacion/';
+  expURL = 'hhttps://app-portfolio-ap-lourdes.herokuapp.com/educacion/';
   constructor(private httpClient: HttpClient) { }
 
 
